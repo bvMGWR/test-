@@ -11,6 +11,7 @@ edad = 17
 print ("mi edad es", edad)
 #05 IMPRIMIENDO 2 VARIABLES EN LA MISMA LINEA (simpre separado por comas)
 print ("hola mi nombre es", nombre, "tengo", edad, "años")
+# hay que colocar una F antes de la comilla, las variables van entre llaves"
 print (f"hola mi nombre es {nombre} y tengo {edad} años")
 #06 ACTUALIZANDO LA VARIABLE (MUTABLE)
 nombre = "barbarita"
@@ -23,6 +24,7 @@ print ("mi nombre es",name, "y peso",peso)
 #08 VARIABLES EN UNA SOLA LINEA (separadas por comas)
 pais, region, cuidad= "chile","los lagos","puerto montt"
 #09 UTILIZANDO LA INSTRUCCION INPUT 
+# es para pedir un informacion por consola y se almacena en la variables 
 Nombre1= input("¿cual es tu nombre?")
 edad2= input ("¿cual es tu edad?")
 print("tu nombre es:",Nombre1,"y tu edad es",edad2)
