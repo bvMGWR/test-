@@ -121,4 +121,36 @@ datos_personales["cuidad"] = "osorno"
 #para borrar un datos del 
 print (datos_personales)
 del datos_personales ["cuidad"]
+Nombre= input("¿cual es tu nombre?")
+edad= input ("¿cual es tu edad?")
+print (type(edad))
+Total_edad= int(edad) + 20
+print ("hola mi nombre es", Nombre, "tengo", edad, "años" "y en 20 años tendre",Total_edad,"años")
+
+#la pedir edad input lo guarda como cadena de texto por lo que hay que usar la funcion type para trasformalo y int 
+
+#tipas set listas y dicionarios
+#modulo, resto cosiente elevado
+#t= timepo g=gravedad v=velocidad/fisica 
+g= 14
+t=60
+v= g *t 
+#format
+c2= complex (3,-5)
+print (c2.real)#el tre sera real 
+print (c2.imag)#5 imaginario 
+print ("hola" *5)
+#print ("hola" * 3.5*2)
+print ("hola" * (int(5)))
+#operadored de comparacion 
+#print (a==b) #comparacion 
+#print (a != b) #desigualdad 
+#print (a==b) 
+#al imprimirlo dara un booleano 
+#print (a==b) #comparacion 
+#codigo ascii le otorga valores numericos a las letras 
+#operadores logicos y/O 
+#ELIF SINO SI indentar el codigo 
+
+
 
