@@ -1,3 +1,4 @@
+### LAB 3
 dic1= {
     "id": {8 ,10},
     "nombre" :{"biobio", "los lagos"},
@@ -6,6 +7,3 @@ dic1= {
 }
 
 print(dic1)
-densi= habiantes/superficie
-dic
-

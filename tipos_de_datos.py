@@ -127,7 +127,7 @@ print (type(edad))
 Total_edad= int(edad) + 20
 print ("hola mi nombre es", Nombre, "tengo", edad, "años" "y en 20 años tendre",Total_edad,"años")
 
-#la pedir edad input lo guarda como cadena de texto por lo que hay que usar la funcion type para trasformalo y int 
+#al pedir edad input lo guarda como cadena de texto por lo que hay que usar la funcion type para trasformalo y int 
 
 #tipas set listas y dicionarios
 #modulo, resto cosiente elevado
@@ -151,6 +151,5 @@ print ("hola" * (int(5)))
 #codigo ascii le otorga valores numericos a las letras 
 #operadores logicos y/O 
 #ELIF SINO SI indentar el codigo 
-
-
+#iteraciones cuando se repite un bucle osea 1, 2 veces
 
